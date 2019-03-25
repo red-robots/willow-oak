@@ -35,8 +35,8 @@
 
     // thumbnail or custom size that will go
     // into the "thumb" variable.
-    // $size = 'agent-lg';
-    $size = 'large';
+    $size = 'agent-lg';
+    //$size = 'large';
     $thumb = $image['sizes'][ $size ];
     $width = $image['sizes'][ $size . '-width' ];
     $height = $image['sizes'][ $size . '-height' ];

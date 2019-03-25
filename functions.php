@@ -285,8 +285,8 @@ add_image_size( 'neighborhoods_featured', 354, 234, true );
 add_image_size( 'neighborhoods_large', 600, 397, true );
 add_image_size( 'neighborhoods_thumb', 100, 100, true );
 add_image_size( 'agent-sm', 235, 180, true );
-// add_image_size( 'agent-lg', 300, 230, true );
-add_image_size( 'agent-lg', 500, 383, true );
+add_image_size( 'agent-lg', 300, 230, true );
+// add_image_size( 'agent-lg', 500, 383, true );
 ?>
 <?php
 function catch_that_image() {
